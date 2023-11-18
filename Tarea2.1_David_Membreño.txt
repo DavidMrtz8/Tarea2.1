@@ -1,0 +1,8 @@
+¿El resultado fue mejor o peor?  
+R// El resultado fue ligeramente mejor, pase de un porcentaje de 65% de acierto con los datos de prueba, a un 68% de acierto.
+
+
+¿Por qué crees que es así? 
+R// Agregue nuevas caracteristicas como el promedio de población por hogar, cuartos por hogar y promedio de dormitorios. Estas caracteristicas 
+ayudan a tener más información pero no la suficiente como para entrenar el modelo de forma correcta, debido a que este modelo puede ser demasiado 
+complejo como para capturar los patrones más ocultos en los datos. 
